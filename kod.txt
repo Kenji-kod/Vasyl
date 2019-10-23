@@ -2,7 +2,22 @@
 uising namstspase std;
 int main()
 {
+int* arr[20]
+int a;
+int b;
+cin >> a;
+cin >> b;
 
+cout << "vod";
+
+if (a > b)
+{
+cout << "strat";
+}
+if (arr);
+{
+cout << "tast"; 
+}
 
 system("pause")
 return 0;
