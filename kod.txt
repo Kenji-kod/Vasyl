@@ -15,6 +15,7 @@ if (a > b)
 {
 cout << "strat";
 }
+//dop_rob
 if (arr);
 {
 cout << "tast"; 
