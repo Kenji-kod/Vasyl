@@ -2,6 +2,7 @@
 uising namstspase std;
 int main()
 {
+// ret
 int* arr[20]
 int a;
 int b;
