@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-// ret
+// слава україні
 int* arr[20]
 int a;
 int b;
