@@ -1,5 +1,5 @@
 #include <iostream>
-uising namstspase std;
+using namespace std;
 int main()
 {
 // ret
@@ -9,17 +9,20 @@ int b;
 cin >> a;
 cin >> b;
 //rit
-cout << "vod";
+cout << "vod"<<endl;
 //robota
 if (a > b)
 {
 cout << "strat";
 }
-//dop_rob
-if (arr);
-{
-cout << "tast"; 
+else{
+cout<<"ne strat"<<endl;
 }
+//dop_rob
+//if (arr);
+//{
+//cout << "tast"; 
+//}
 
 system("pause")
 return 0;
