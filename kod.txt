@@ -1,0 +1,9 @@
+#include <iostream>
+uising namstspase std;
+int main()
+{
+
+
+system("pause")
+return 0;
+}
