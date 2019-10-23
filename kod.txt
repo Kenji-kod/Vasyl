@@ -8,7 +8,7 @@ int a;
 int b;
 cin >> a;
 cin >> b;
-
+//rit
 cout << "vod";
 
 if (a > b)
