@@ -10,7 +10,7 @@ cin >> a;
 cin >> b;
 //rit
 cout << "vod";
-
+//robota
 if (a > b)
 {
 cout << "strat";
