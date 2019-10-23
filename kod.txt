@@ -2,7 +2,24 @@
 uising namstspase std;
 int main()
 {
-
+// ret
+int* arr[20]
+int a;
+int b;
+cin >> a;
+cin >> b;
+//rit
+cout << "vod";
+//robota
+if (a > b)
+{
+cout << "strat";
+}
+//dop_rob
+if (arr);
+{
+cout << "tast"; 
+}
 
 system("pause")
 return 0;
