@@ -24,6 +24,6 @@ cout<<"ne strat"<<endl;
 //cout << "tast"; 
 //}
 
-system("pause")
+system("pause");
 return 0;
 }
